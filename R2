@@ -1,0 +1,4 @@
+Day 2:  1st July. monday
+Today's Progress: Spent more time in learnign angular communication @Input.
+
+Thoughts: Feels good to be back at coding.
